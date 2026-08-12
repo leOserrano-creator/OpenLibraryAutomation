@@ -1,0 +1,9 @@
+target/
+test-output/
+.settings/
+.classpath
+.project
+*.log
+src/main/java/AmazonPages/
+src/test/java/AmazonTest/
+resources/screenshots/addAndRemoveProductTest.png
